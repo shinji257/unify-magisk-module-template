@@ -30,7 +30,7 @@ custom_template_version="0.4"
 
 # This will be the folder name under /magisk
 # This should also be the same as the id in your module.prop to prevent confusion
-MODID=template
+MODID=lgadoptstor
 
 # Set to true if you need to enable Magic Mount
 # Most mods would like it to be enabled
@@ -70,7 +70,7 @@ MAXAPI=
 
 print_modname() {
   ui_print "******************************"
-  ui_print " System/Less Module Template  "
+  ui_print "LGE Adoptable Storage Enabler "
   ui_print "******************************"
 }
 
